@@ -1,0 +1,22 @@
+-----responsabilidades distintas----- 
+
+1- estrutura de dados 
+2- algoritimo
+3-rendenização
+
+cada uma delas será uma função
+
+-----------------------------------------------
+
+a estrutura de dados utlizada é um array linear, onde todos os pixels do
+ fogo vão estar um do lado do outro nesse array 
+
+-----------------------------------------------
+
+pra definir o tamanho do fogo será utilizado 2 variaveis 
+
+1- para definir a lagura
+2- para definir a altura 
+
+
+--------------------------------------------------
